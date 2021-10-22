@@ -76,3 +76,16 @@ body {
     margin-top: 10px;
     padding-top: 10px;
 }
+
+.from > .yoshi > .text {
+    font-size: 30px;
+}
+
+.from > .turtle > .name {
+    font-family: "Comic Sans";
+}
+
+.from > .turtle > .text {
+    font-family: "Comic Sans";
+    font-size: 30px;
+}

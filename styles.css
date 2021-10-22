@@ -51,6 +51,18 @@ body {
     margin:0px;
 }
 
+.from > .hoeen {
+    font-family: monospace;
+    padding: 5px;
+    margin: 0px;
+    font-size: 30px;
+}
+
+.from > .hoeen > .name {
+    color: #009900;
+    padding-bottom: 5px;
+}
+
 .from > .tbob > .name {
     margin-top: 10px;
     padding-top: 10px;

@@ -36,7 +36,7 @@ body {
     margin:0px;
 }
 
-.from > .tbob {
+.from > .tbob > .name {
     margin-top: 10px;
     padding-top: 10px;
 }

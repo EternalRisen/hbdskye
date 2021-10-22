@@ -89,3 +89,15 @@ body {
     font-family: "Comic Sans";
     font-size: 30px;
 }
+
+.from > .joker > .text {
+    font-size: 30px;
+}
+
+.from > .tulip > .text {
+    font-size: 40px;
+}
+
+.from > .stormy > .text {
+    font-size: 35px;
+}

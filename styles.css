@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap%27');
+
 body {
-    background-color:navy;
+    background-color: rgb(25, 190, 240);
+    color: white;
+    font-family: 'Festive', cursive;
+    text-align: center;
+}
+
+.header {
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 5px;
+    font-size: 100px;
+    padding-bottom: 5px;
 }
